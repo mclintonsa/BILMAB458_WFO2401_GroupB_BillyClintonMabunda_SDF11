@@ -46,7 +46,9 @@ Learning Points:
 
 #Valuable Links
 
-##Link to Loom Video Representation
-
 
 ##Link to Slide Presentation
+https://docs.google.com/presentation/d/1G3WWdW-wDflanuVFbgC15ULJ07Kl-hKg4acm4wbKlM4/edit#slide=id.g3f7ec1d4ea_0_50
+
+##Link to Loom Video Representation
+
