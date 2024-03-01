@@ -15,3 +15,38 @@ Learning Points:
 
 1. Master mobile-first design principles.
 2. Implement a toggle for the navigation menu on small screens using JavaScript.
+
+#Component 2
+
+Learning Points:
+
+2. Utilise Tailwind CSS to create a visually appealing hero section.
+3. Understand layout techniques that make your content stand out.
+
+#Component 3
+
+Learning Points:
+
+1. Apply grid and Flexbox layouts for a consistent design.
+2. Use Tailwind classes to maintain a cohesive look and feel.
+
+#Component 4
+
+Learning Points:
+
+1. Learn CSS layout techniques for presenting data.
+2. Understand how to design compelling call-to-action sections.
+
+#Component 5
+
+Learning Points:
+
+1. Set up effective and user-friendly contact details.
+2. Include essential elements in the footer like privacy policy, terms of use, and social media links.
+
+#Valuable Links
+
+##Link to Loom Video Representation
+
+
+##Link to Slide Presentation
